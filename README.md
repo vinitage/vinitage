@@ -36,6 +36,7 @@ Antes do digital, fiz parte do time de planejamento e controle de produção da 
 | **[Instituto Vidotto](https://institutovidotto.com.br)** | Site + GMN para clínica de fisioterapia e quiropraxia, com rastreamento por origem e GA4 |
 | **[APAE Américo Brasiliense](https://apaeamericobrasiliense.com.br)** | Site institucional + GMN para entidade de assistência social |
 | **[Débora Mendonça](https://neuropsideboramendonca.com.br)** | Site + GMN para neuropsicóloga, dentro das normas do conselho de classe |
+| **[LF Afiações](https://lfafiacoes.com)** | Site + GMN para serviço de afiação de alicates, tesouras e facas |
 | **VintaHub** | Plataforma multi-cliente com login único e módulos por segmento (clínicas, instituições, escolas), em Supabase |
 
 <sub>Os códigos dos projetos de clientes são privados.</sub>
