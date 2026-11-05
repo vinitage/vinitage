@@ -47,7 +47,7 @@ Tudo medido mês a mês, com foco em resultado real para quem contrata.
 
 | Produto | O que é |
 |---|---|
-| **[Sociare](https://gestaosociare.com.br)** | Software de gestão para APAEs, ONGs e associações: financeiro, prestação de contas por fonte de recurso e relatórios para prefeitura e diretoria |
+| **[Sociare](https://github.com/vinitage/Sociare-public)** | Software de gestão para APAEs, ONGs e associações: financeiro, prestação de contas por fonte de recurso e relatórios para prefeitura e diretoria |
 | **VintaHub** | Plataforma interna da Vinta: CRM de leads, clientes e gestão da operação, em Supabase |
 
 <sub>Os códigos dos projetos de clientes e dos produtos são privados.</sub>
