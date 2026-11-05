@@ -56,11 +56,11 @@ Tudo medido mês a mês, com foco em resultado real para quem contrata.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python,mysql,supabase,git,github,vscode&perline=13" />
 
-![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Meu Negócio](https://img.shields.io/badge/Google_Meu_Neg%C3%B3cio-4285F4?style=flat-square&logo=google&logoColor=white&cacheSeconds=86400)
-![SEO Local](https://img.shields.io/badge/SEO%20Local-0B0B0C?style=flat-square)
-![GEO](https://img.shields.io/badge/GEO%20%2F%20Buscas%20por%20IA-0B7A70?style=flat-square)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white&cacheSeconds=86400)
+<img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square" alt="Excel VBA"/>
+<img src="https://img.shields.io/badge/Google_Meu_Neg%C3%B3cio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Meu Negócio"/>
+<img src="https://img.shields.io/badge/SEO_Local-0B0B0C?style=flat-square" alt="SEO Local"/>
+<img src="https://img.shields.io/badge/GEO_%2F_Buscas_por_IA-0B7A70?style=flat-square" alt="GEO"/>
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"/>
 
 ---
 
