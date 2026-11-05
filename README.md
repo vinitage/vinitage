@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Sites+que+transformam+visitas+em+clientes;Google+Meu+Neg%C3%B3cio+e+SEO+local;Sistemas+e+automa%C3%A7%C3%B5es+sob+medida;Neg%C3%B3cios+locais+e+profissionais+aut%C3%B4nomos" />
 
-<a href="https://vndigital.site"><img src="https://img.shields.io/badge/Vinta-vndigital.site-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://vintadigital.com.br"><img src="https://img.shields.io/badge/Vinta-vintadigital.com.br-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vinicius-rodri-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vinirodrigues712@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -32,7 +32,7 @@ Antes do digital, fiz parte do time de planejamento e controle de produção da 
 
 | Projeto | Entrega |
 |---|---|
-| **[Vinta](https://vndigital.site)** | Site da agência |
+| **[Vinta](https://vintadigital.com.br)** | Site da agência |
 | **[Instituto Vidotto](https://institutovidotto.com.br)** | Site + GMN para clínica de fisioterapia e quiropraxia, com rastreamento por origem e GA4 |
 | **[APAE Américo Brasiliense](https://apaeamericobrasiliense.com.br)** | Site institucional + GMN para entidade de assistência social |
 | **[Débora Mendonça](https://neuropsideboramendonca.com.br)** | Site + GMN para neuropsicóloga, dentro das normas do conselho de classe |
